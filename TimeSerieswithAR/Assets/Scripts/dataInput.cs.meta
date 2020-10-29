@@ -1,0 +1,41 @@
+fileFormatVersion: 2
+guid: 97f33fc79ecf1ce4aa4cddc73b459ec7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - northlandMaterial: {fileID: 2100000, guid: f164ceedae80db64dbdf0fd78237bb20, type: 2}
+  - aucklandMaterial: {instanceID: 0}
+  - waikatoMaterial: {instanceID: 0}
+  - bayOfPlentyMaterial: {instanceID: 0}
+  - gisborneMaterial: {instanceID: 0}
+  - hawkesBayMaterial: {instanceID: 0}
+  - taranakiMaterial: {instanceID: 0}
+  - manawatuMaterial: {instanceID: 0}
+  - wellingtonMaterial: {instanceID: 0}
+  - marlboroughMaterial: {instanceID: 0}
+  - tasmanMaterial: {instanceID: 0}
+  - westCoastMaterial: {instanceID: 0}
+  - canterburyMaterial: {instanceID: 0}
+  - otagoMaterial: {instanceID: 0}
+  - southlandMaterial: {instanceID: 0}
+  - regionalDataAll: {instanceID: 0}
+  - regionalDataAgriculture: {instanceID: 0}
+  - regionalDataManufacturing: {instanceID: 0}
+  - regionalDataService: {instanceID: 0}
+  - textPrefabValues: {instanceID: 0}
+  - lineGraph: {instanceID: 0}
+  - point: {instanceID: 0}
+  - linesAll: {instanceID: 0}
+  - linesAgriculture: {instanceID: 0}
+  - linesManufacturing: {instanceID: 0}
+  - linesService: {instanceID: 0}
+  - dropdown: {instanceID: 0}
+  - displayValues: {instanceID: 0}
+  - displayLineGraph: {instanceID: 0}
+  - displayBarGraph: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
