@@ -1,7 +1,7 @@
 # CSharp-VisualStudio-Unity-R_TimeSerieswithAR
 C#, Visual Studio, Unity, and R - Time Series with Augmented Reality - Visualisation of New Zealand GDP Data
 
-Summary: The purpose of this project was to New Zealand’s Gross Domestic Product (GDP) data across multiple regions and years, using Augmented Reality (AR) and predict the trends. The outcome of this project is an AR visualisation prototype, created using Unity and built into an Android app. It is designed so that given: CSV files containing GDP data, a marker, and a device, one or more people could view that data from unique 3D perspectives not easily possible through other methods.
+Summary: The purpose of this project was to  New Zealand’s Gross Domestic Product (GDP) data across multiple regions and years, using Augmented Reality (AR) and predict the trends. The outcome of this project is an AR visualisation prototype, created using Unity and built into an Android app. It is designed so that given: CSV files containing GDP data, a marker, and a device, one or more people could view that data from unique 3D perspectives not easily possible through other methods.
 
 Some pictures about the outcome of the projects:
 
